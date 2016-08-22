@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">StrmEasy</string>
+
+    <!--internet permission messages start-->
+    <string name="description_read_phone_state">You need to grant permission to read your phone state in order to continue. This permission lets the app to uniquely identify a User.</string>
+    <string name="description_write_external_storage">In order to save the content, you need to grant permission for the app to write to the external storage.</string>
+    <string name="description_fine_location">To provide you with the best personalized content, we\u0027ll need your permission to read location data.</string>
+    <!--internet permission messages end-->
+
+    <!--gps setting dialog start-->
+    <string name="gpssettingdialog">StrmEasy wants you to enable High Accuracy mode </string>
+    <string name="gpssettingdialog2">to deliver the content most relevant to your location</string>
+    <string name="settingbtn">Settings</string>
+    <string name="cancelbtn">Cancel</string>
+    <string name="retry">Retry</string>
+    <string name="exit">Exit</string>
+    <string name="no_internet_msg">No Internet Connection! Please check your internet settings and try again!</string>
+    <!--gps setting dialog end-->
+
+    <!--gps showmessage dialog start-->
+    <string name="ok">OK</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!--<string name="title_activity_home">Home</string>-->
+    <!--gps showmessage dialog end-->
+
+</resources>
